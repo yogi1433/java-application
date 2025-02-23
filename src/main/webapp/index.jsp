@@ -94,7 +94,7 @@
     </style>
   </head>
   <body>
-    <h1>Welcome this is yogesh automated using webhooks!</h1>
+    <h1>Welcome this is yogi automated using webhooks!</h1>
     <h1 class="first-version">
       &#x1F680; This is the first version! &#x1F680;
     </h1>
